@@ -21,7 +21,6 @@
   - Numpy
 
 ### Steps to use this project:
- 1. [Clone](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) this repo or Download the zip folder.
  
  2. Install Python 3.6 or greater `pip install python`
  
