@@ -2,7 +2,6 @@ import cv2
 import numpy as np
 import matplotlib.pyplot as plt
 
-
 # Define ROI
 def roi(image, vertices):
     mask = np.zeros_like(image)
